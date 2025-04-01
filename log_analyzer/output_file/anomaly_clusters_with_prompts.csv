@@ -1,0 +1,220 @@
+cluster_label,log_count,example_logs,ai_prompt
+0,57,"2025-03-05 14:05:44, Info                  CBS    TI: Last boot time: 2024-12-31 10:10:34.954
+2025-03-05 14:36:57, Info                  CBS    TI: Last boot time: 2024-12-31 10:10:34.954
+2025-03-05 14:41:27, Info                  CBS    TI: Last boot time: 2024-12-31 10:10:34.961
+2025-03-05 14:51:44, Info                  CBS    TI: Last boot time: 2024-12-31 10:10:34.961
+2025-03-05 15:07:56, Info                  CBS    TI: Last boot time: 2024-12-31 10:10:34.961","Analyze the following similar log errors and suggest solutions:
+2025-03-05 14:05:44, Info                  CBS    TI: Last boot time: 2024-12-31 10:10:34.954
+2025-03-05 14:36:57, Info                  CBS    TI: Last boot time: 2024-12-31 10:10:34.954
+2025-03-05 14:41:27, Info                  CBS    TI: Last boot time: 2024-12-31 10:10:34.961
+..."
+1,57,"2025-03-05 14:05:45, Info                  CBS    TI: started and RebootPending volatile key indicates that a reboot is pending, skip startup processing.
+2025-03-05 14:36:57, Info                  CBS    TI: started and RebootPending volatile key indicates that a reboot is pending, skip startup processing.
+2025-03-05 14:41:27, Info                  CBS    TI: started and RebootPending volatile key indicates that a reboot is pending, skip startup processing.
+2025-03-05 14:51:44, Info                  CBS    TI: started and RebootPending volatile key indicates that a reboot is pending, skip startup processing.
+2025-03-05 15:07:56, Info                  CBS    TI: started and RebootPending volatile key indicates that a reboot is pending, skip startup processing.","Analyze the following similar log errors and suggest solutions:
+2025-03-05 14:05:45, Info                  CBS    TI: started and RebootPending volatile key indicates that a reboot is pending, skip startup processing.
+2025-03-05 14:36:57, Info                  CBS    TI: started and RebootPending volatile key indicates that a reboot is pending, skip startup processing.
+2025-03-05 14:41:27, Info                  CBS    TI: started and RebootPending volatile key indicates that a reboot is pending, skip startup processing.
+..."
+2,57,"2025-03-05 14:05:46, Info                  CBS    Loaded Servicing Stack v10.0.22621.5015 with Core: C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.22621.5015_none_e970f34042c06ddb\cbscore.dll
+2025-03-05 14:36:59, Info                  CBS    Loaded Servicing Stack v10.0.22621.5015 with Core: C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.22621.5015_none_e970f34042c06ddb\cbscore.dll
+2025-03-05 14:41:27, Info                  CBS    Loaded Servicing Stack v10.0.22621.5015 with Core: C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.22621.5015_none_e970f34042c06ddb\cbscore.dll
+2025-03-05 14:51:44, Info                  CBS    Loaded Servicing Stack v10.0.22621.5015 with Core: C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.22621.5015_none_e970f34042c06ddb\cbscore.dll
+2025-03-05 15:07:57, Info                  CBS    Loaded Servicing Stack v10.0.22621.5015 with Core: C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.22621.5015_none_e970f34042c06ddb\cbscore.dll","Analyze the following similar log errors and suggest solutions:
+2025-03-05 14:05:46, Info                  CBS    Loaded Servicing Stack v10.0.22621.5015 with Core: C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.22621.5015_none_e970f34042c06ddb\cbscore.dll
+2025-03-05 14:36:59, Info                  CBS    Loaded Servicing Stack v10.0.22621.5015 with Core: C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.22621.5015_none_e970f34042c06ddb\cbscore.dll
+2025-03-05 14:41:27, Info                  CBS    Loaded Servicing Stack v10.0.22621.5015 with Core: C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.22621.5015_none_e970f34042c06ddb\cbscore.dll
+..."
+3,59,"2025-03-05 14:05:46, Info                  CBS    Build: 22621.1.amd64fre.ni_release.220506-1250
+2025-03-05 14:36:59, Info                  CBS    Build: 22621.1.amd64fre.ni_release.220506-1250
+2025-03-05 14:41:27, Info                  CBS    Build: 22621.1.amd64fre.ni_release.220506-1250
+2025-03-05 14:51:44, Info                  CBS    Build: 22621.1.amd64fre.ni_release.220506-1250
+2025-03-05 15:07:57, Info                  CBS    Build: 22621.1.amd64fre.ni_release.220506-1250","Analyze the following similar log errors and suggest solutions:
+2025-03-05 14:05:46, Info                  CBS    Build: 22621.1.amd64fre.ni_release.220506-1250
+2025-03-05 14:36:59, Info                  CBS    Build: 22621.1.amd64fre.ni_release.220506-1250
+2025-03-05 14:41:27, Info                  CBS    Build: 22621.1.amd64fre.ni_release.220506-1250
+..."
+4,84,"2025-03-05 14:05:46, Info                  CSI    00000001@2025/3/5:08:35:46.917 WcpInitialize: wcp.dll version 10.0.22621.5015 (WinBuild.160101.0800)
+2025-03-05 14:36:59, Info                  CSI    00000001@2025/3/5:09:06:59.385 WcpInitialize: wcp.dll version 10.0.22621.5015 (WinBuild.160101.0800)
+2025-03-05 14:41:27, Info                  CSI    00000001@2025/3/5:09:11:27.672 WcpInitialize: wcp.dll version 10.0.22621.5015 (WinBuild.160101.0800)
+2025-03-05 14:51:44, Info                  CSI    00000001@2025/3/5:09:21:44.772 WcpInitialize: wcp.dll version 10.0.22621.5015 (WinBuild.160101.0800)
+2025-03-05 15:07:57, Info                  CSI    00000001@2025/3/5:09:37:57.022 WcpInitialize: wcp.dll version 10.0.22621.5015 (WinBuild.160101.0800)","Analyze the following similar log errors and suggest solutions:
+2025-03-05 14:05:46, Info                  CSI    00000001@2025/3/5:08:35:46.917 WcpInitialize: wcp.dll version 10.0.22621.5015 (WinBuild.160101.0800)
+2025-03-05 14:36:59, Info                  CSI    00000001@2025/3/5:09:06:59.385 WcpInitialize: wcp.dll version 10.0.22621.5015 (WinBuild.160101.0800)
+2025-03-05 14:41:27, Info                  CSI    00000001@2025/3/5:09:11:27.672 WcpInitialize: wcp.dll version 10.0.22621.5015 (WinBuild.160101.0800)
+..."
+5,1759,"2025-03-05 14:05:47, Info                  CBS    Appl: detect Parent, Package: Microsoft-Windows-Holographic-Desktop-FOD-Package~31bf3856ad364e35~amd64~~10.0.22621.1, Parent: Microsoft-Windows-Client-Features-Package~31bf3856ad364e35~amd64~~10.0.22621.1, Disposition = Detect, VersionComp: EQ, BuildComp: GE, RevisionComp: GE, Exist: present
+2025-03-05 14:05:47, Info                  CBS    Appl: Higher version found for package: Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~amd64~~10.0.22621.1, superseded. (Version on system:Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~amd64~~10.0.22621.5015)
+2025-03-05 14:05:47, Info                  CBS    Appl: detect Parent, Package: Microsoft-Windows-WirelessDisplay-FOD-Package~31bf3856ad364e35~amd64~~10.0.22621.1, Parent: Microsoft-Windows-EditionSpecific-EnterpriseS-Package~31bf3856ad364e35~amd64~~10.0.22621.1, Disposition = Detect, VersionComp: EQ, BuildComp: GE, RevisionComp: GE, Exist: present
+2025-03-05 14:05:47, Info                  CBS    Appl: detect Parent, Package: Microsoft-Windows-WirelessDisplay-FOD-Package~31bf3856ad364e35~amd64~~10.0.22621.1, Parent: Microsoft-Windows-EditionSpecific-EnterpriseSEval-Package~31bf3856ad364e35~amd64~~10.0.22621.1, Disposition = Detect, VersionComp: EQ, BuildComp: GE, RevisionComp: GE, Exist: present
+2025-03-05 14:05:47, Info                  CBS    Appl: detect Parent, Package: Microsoft-Windows-WirelessDisplay-FOD-Package~31bf3856ad364e35~amd64~~10.0.22621.1, Parent: Microsoft-Windows-RegulatedPackages-Package~31bf3856ad364e35~amd64~~10.0.22621.1, Disposition = Detect, VersionComp: EQ, BuildComp: GE, RevisionComp: GE, Exist: present","Analyze the following similar log errors and suggest solutions:
+2025-03-05 14:05:47, Info                  CBS    Appl: detect Parent, Package: Microsoft-Windows-Holographic-Desktop-FOD-Package~31bf3856ad364e35~amd64~~10.0.22621.1, Parent: Microsoft-Windows-Client-Features-Package~31bf3856ad364e35~amd64~~10.0.22621.1, Disposition = Detect, VersionComp: EQ, BuildComp: GE, RevisionComp: GE, Exist: present
+2025-03-05 14:05:47, Info                  CBS    Appl: Higher version found for package: Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~amd64~~10.0.22621.1, superseded. (Version on system:Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~amd64~~10.0.22621.5015)
+2025-03-05 14:05:47, Info                  CBS    Appl: detect Parent, Package: Microsoft-Windows-WirelessDisplay-FOD-Package~31bf3856ad364e35~amd64~~10.0.22621.1, Parent: Microsoft-Windows-EditionSpecific-EnterpriseS-Package~31bf3856ad364e35~amd64~~10.0.22621.1, Disposition = Detect, VersionComp: EQ, BuildComp: GE, RevisionComp: GE, Exist: present
+..."
+6,7,"2025-03-05 14:05:49, Info                  CBS    Appl: Higher version found for package: Microsoft-Windows-Wallpaper-Content-Extended-FoD-Package~31bf3856ad364e35~amd64~~10.0.22621.1, superseded. (Version on system:Microsoft-Windows-Wallpaper-Content-Extended-FoD-Package~31bf3856ad364e35~amd64~~10.0.22621.5015)
+2025-03-05 14:37:01, Info                  CBS    Appl: Higher version found for package: Microsoft-Windows-Wallpaper-Content-Extended-FoD-Package~31bf3856ad364e35~amd64~~10.0.22621.1, superseded. (Version on system:Microsoft-Windows-Wallpaper-Content-Extended-FoD-Package~31bf3856ad364e35~amd64~~10.0.22621.5015)
+2025-03-08 12:58:57, Info                  CBS    Appl: Higher version found for package: Microsoft-Windows-Wallpaper-Content-Extended-FoD-Package~31bf3856ad364e35~amd64~~10.0.22621.1, superseded. (Version on system:Microsoft-Windows-Wallpaper-Content-Extended-FoD-Package~31bf3856ad364e35~amd64~~10.0.22621.5015)
+2025-03-08 21:39:48, Info                  CBS    Appl: Higher version found for package: Microsoft-Windows-Wallpaper-Content-Extended-FoD-Package~31bf3856ad364e35~amd64~~10.0.22621.1, superseded. (Version on system:Microsoft-Windows-Wallpaper-Content-Extended-FoD-Package~31bf3856ad364e35~amd64~~10.0.22621.5015)
+2025-03-13 11:13:09, Info                  CBS    Appl: Higher version found for package: Microsoft-Windows-Wallpaper-Content-Extended-FoD-Package~31bf3856ad364e35~amd64~~10.0.22621.1, superseded. (Version on system:Microsoft-Windows-Wallpaper-Content-Extended-FoD-Package~31bf3856ad364e35~amd64~~10.0.22621.5015)","Analyze the following similar log errors and suggest solutions:
+2025-03-05 14:05:49, Info                  CBS    Appl: Higher version found for package: Microsoft-Windows-Wallpaper-Content-Extended-FoD-Package~31bf3856ad364e35~amd64~~10.0.22621.1, superseded. (Version on system:Microsoft-Windows-Wallpaper-Content-Extended-FoD-Package~31bf3856ad364e35~amd64~~10.0.22621.5015)
+2025-03-05 14:37:01, Info                  CBS    Appl: Higher version found for package: Microsoft-Windows-Wallpaper-Content-Extended-FoD-Package~31bf3856ad364e35~amd64~~10.0.22621.1, superseded. (Version on system:Microsoft-Windows-Wallpaper-Content-Extended-FoD-Package~31bf3856ad364e35~amd64~~10.0.22621.5015)
+2025-03-08 12:58:57, Info                  CBS    Appl: Higher version found for package: Microsoft-Windows-Wallpaper-Content-Extended-FoD-Package~31bf3856ad364e35~amd64~~10.0.22621.1, superseded. (Version on system:Microsoft-Windows-Wallpaper-Content-Extended-FoD-Package~31bf3856ad364e35~amd64~~10.0.22621.5015)
+..."
+7,7,"2025-03-05 14:05:50, Info                  CBS    Appl: Higher version found for package: Microsoft-OneCore-Graphics-Tools-Package~31bf3856ad364e35~amd64~~10.0.22621.1, superseded. (Version on system:Microsoft-OneCore-Graphics-Tools-Package~31bf3856ad364e35~amd64~~10.0.22621.5015)
+2025-03-05 14:37:02, Info                  CBS    Appl: Higher version found for package: Microsoft-OneCore-Graphics-Tools-Package~31bf3856ad364e35~amd64~~10.0.22621.1, superseded. (Version on system:Microsoft-OneCore-Graphics-Tools-Package~31bf3856ad364e35~amd64~~10.0.22621.5015)
+2025-03-08 12:58:58, Info                  CBS    Appl: Higher version found for package: Microsoft-OneCore-Graphics-Tools-Package~31bf3856ad364e35~amd64~~10.0.22621.1, superseded. (Version on system:Microsoft-OneCore-Graphics-Tools-Package~31bf3856ad364e35~amd64~~10.0.22621.5015)
+2025-03-08 21:39:48, Info                  CBS    Appl: Higher version found for package: Microsoft-OneCore-Graphics-Tools-Package~31bf3856ad364e35~amd64~~10.0.22621.1, superseded. (Version on system:Microsoft-OneCore-Graphics-Tools-Package~31bf3856ad364e35~amd64~~10.0.22621.5015)
+2025-03-13 11:13:10, Info                  CBS    Appl: Higher version found for package: Microsoft-OneCore-Graphics-Tools-Package~31bf3856ad364e35~amd64~~10.0.22621.1, superseded. (Version on system:Microsoft-OneCore-Graphics-Tools-Package~31bf3856ad364e35~amd64~~10.0.22621.5015)","Analyze the following similar log errors and suggest solutions:
+2025-03-05 14:05:50, Info                  CBS    Appl: Higher version found for package: Microsoft-OneCore-Graphics-Tools-Package~31bf3856ad364e35~amd64~~10.0.22621.1, superseded. (Version on system:Microsoft-OneCore-Graphics-Tools-Package~31bf3856ad364e35~amd64~~10.0.22621.5015)
+2025-03-05 14:37:02, Info                  CBS    Appl: Higher version found for package: Microsoft-OneCore-Graphics-Tools-Package~31bf3856ad364e35~amd64~~10.0.22621.1, superseded. (Version on system:Microsoft-OneCore-Graphics-Tools-Package~31bf3856ad364e35~amd64~~10.0.22621.5015)
+2025-03-08 12:58:58, Info                  CBS    Appl: Higher version found for package: Microsoft-OneCore-Graphics-Tools-Package~31bf3856ad364e35~amd64~~10.0.22621.1, superseded. (Version on system:Microsoft-OneCore-Graphics-Tools-Package~31bf3856ad364e35~amd64~~10.0.22621.5015)
+..."
+8,2609,"2025-03-05 14:05:51, Info                  CBS    Appl: Package: Microsoft-Windows-NetFx4-WCF-US-OC-Package~31bf3856ad364e35~amd64~~10.0.22621.1, Update: WCF-Services45, Applicable: Applicable, Disposition: Installed
+2025-03-05 14:05:52, Info                  CBS    Appl: Package: Microsoft-Windows-IIS-WebServer-Package~31bf3856ad364e35~amd64~~10.0.22621.4220, Update: IIS-WebServer, Applicable: NeedsParent, Disposition: Staged
+2025-03-05 14:05:52, Info                  CBS    Appl: Package: Microsoft-Windows-IIS-WebServer-Package~31bf3856ad364e35~amd64~~10.0.22621.4220, Update: IIS-CommonHttpFeatures, Applicable: NeedsParent, Disposition: Staged
+2025-03-05 14:05:52, Info                  CBS    Appl: Package: Microsoft-Windows-IIS-WebServer-Package~31bf3856ad364e35~amd64~~10.0.22621.4220, Update: IIS-ApplicationDevelopment, Applicable: NeedsParent, Disposition: Staged
+2025-03-05 14:05:52, Info                  CBS    Appl: Package: Microsoft-Windows-IIS-WebServer-Package~31bf3856ad364e35~amd64~~10.0.22621.4220, Update: IIS-Security, Applicable: NeedsParent, Disposition: Staged","Analyze the following similar log errors and suggest solutions:
+2025-03-05 14:05:51, Info                  CBS    Appl: Package: Microsoft-Windows-NetFx4-WCF-US-OC-Package~31bf3856ad364e35~amd64~~10.0.22621.1, Update: WCF-Services45, Applicable: Applicable, Disposition: Installed
+2025-03-05 14:05:52, Info                  CBS    Appl: Package: Microsoft-Windows-IIS-WebServer-Package~31bf3856ad364e35~amd64~~10.0.22621.4220, Update: IIS-WebServer, Applicable: NeedsParent, Disposition: Staged
+2025-03-05 14:05:52, Info                  CBS    Appl: Package: Microsoft-Windows-IIS-WebServer-Package~31bf3856ad364e35~amd64~~10.0.22621.4220, Update: IIS-CommonHttpFeatures, Applicable: NeedsParent, Disposition: Staged
+..."
+9,144,"2025-03-05 14:07:45, Info                  CBS    InternalOpenPackage failed for Package_for_KB3025096~31bf3856ad364e35~amd64~~6.4.1.0 [HRESULT = 0x800f0805 - CBS_E_INVALID_PACKAGE]
+2025-03-05 14:07:45, Info                  CBS    Failed to internally open package. [HRESULT = 0x800f0805 - CBS_E_INVALID_PACKAGE]
+2025-03-05 14:07:45, Info                  CBS    Failed to create open package. [HRESULT = 0x800f0805 - CBS_E_INVALID_PACKAGE]
+2025-03-05 14:07:45, Info                  CBS    Failed to OpenPackage using worker session [HRESULT = 0x800f0805]
+2025-03-05 14:07:45, Info                  CBS    InternalOpenPackage failed for Package_for_KB3025096~31bf3856ad364e35~x86~~6.4.1.0 [HRESULT = 0x800f0805 - CBS_E_INVALID_PACKAGE]","Analyze the following similar log errors and suggest solutions:
+2025-03-05 14:07:45, Info                  CBS    InternalOpenPackage failed for Package_for_KB3025096~31bf3856ad364e35~amd64~~6.4.1.0 [HRESULT = 0x800f0805 - CBS_E_INVALID_PACKAGE]
+2025-03-05 14:07:45, Info                  CBS    Failed to internally open package. [HRESULT = 0x800f0805 - CBS_E_INVALID_PACKAGE]
+2025-03-05 14:07:45, Info                  CBS    Failed to create open package. [HRESULT = 0x800f0805 - CBS_E_INVALID_PACKAGE]
+..."
+10,99,"2025-03-05 14:09:16, Info                  CBS    Package does not have any install properties yet, ignoring any errors above and continuing.
+2025-03-05 14:51:45, Info                  CBS    Package does not have any install properties yet, ignoring any errors above and continuing.
+2025-03-05 14:51:46, Info                  CBS    Package does not have any install properties yet, ignoring any errors above and continuing.
+2025-03-05 14:51:47, Info                  CBS    Package does not have any install properties yet, ignoring any errors above and continuing.
+2025-03-05 14:51:49, Info                  CBS    Package does not have any install properties yet, ignoring any errors above and continuing.","Analyze the following similar log errors and suggest solutions:
+2025-03-05 14:09:16, Info                  CBS    Package does not have any install properties yet, ignoring any errors above and continuing.
+2025-03-05 14:51:45, Info                  CBS    Package does not have any install properties yet, ignoring any errors above and continuing.
+2025-03-05 14:51:46, Info                  CBS    Package does not have any install properties yet, ignoring any errors above and continuing.
+..."
+11,94,"2025-03-05 14:09:17, Info                  CBS    Session: 31165866_324732299 finalized. Reboot required: no [HRESULT = 0x00000000 - S_OK]
+2025-03-05 14:51:46, Info                  CBS    Session: 31165872_57347228 finalized. Reboot required: no [HRESULT = 0x00000000 - S_OK]
+2025-03-05 14:51:47, Info                  CBS    Session: 31165872_69824352 finalized. Reboot required: no [HRESULT = 0x00000000 - S_OK]
+2025-03-05 14:51:48, Info                  CBS    Session: 31165872_79806065 finalized. Reboot required: no [HRESULT = 0x00000000 - S_OK]
+2025-03-05 14:51:49, Info                  CBS    Session: 31165872_91305110 finalized. Reboot required: no [HRESULT = 0x00000000 - S_OK]","Analyze the following similar log errors and suggest solutions:
+2025-03-05 14:09:17, Info                  CBS    Session: 31165866_324732299 finalized. Reboot required: no [HRESULT = 0x00000000 - S_OK]
+2025-03-05 14:51:46, Info                  CBS    Session: 31165872_57347228 finalized. Reboot required: no [HRESULT = 0x00000000 - S_OK]
+2025-03-05 14:51:47, Info                  CBS    Session: 31165872_69824352 finalized. Reboot required: no [HRESULT = 0x00000000 - S_OK]
+..."
+12,9,"2025-03-05 14:45:16, Info                  CBS    WU creates the package, AppID:<<PROCESS>>: powershell.exe, UpdateID:{33D6CF13-224E-459B-AD4F-AF8C5E3CC469}, revision: 202
+2025-03-05 14:45:18, Info                  CBS    WU creates the package, AppID:<<PROCESS>>: powershell.exe, UpdateID:{4635602F-718C-4584-BA72-33B3C6766F3A}, revision: 200
+2025-03-05 14:45:24, Info                  CBS    WU creates the package, AppID:<<PROCESS>>: powershell.exe, UpdateID:{6B8B6AD1-BE52-40D0-9C16-B6F038D8D32F}, revision: 202
+2025-03-08 21:36:36, Info                  CBS    WU creates the package, AppID:<<PROCESS>>: powershell.exe, UpdateID:{33D6CF13-224E-459B-AD4F-AF8C5E3CC469}, revision: 202
+2025-03-08 21:36:38, Info                  CBS    WU creates the package, AppID:<<PROCESS>>: powershell.exe, UpdateID:{4635602F-718C-4584-BA72-33B3C6766F3A}, revision: 200","Analyze the following similar log errors and suggest solutions:
+2025-03-05 14:45:16, Info                  CBS    WU creates the package, AppID:<<PROCESS>>: powershell.exe, UpdateID:{33D6CF13-224E-459B-AD4F-AF8C5E3CC469}, revision: 202
+2025-03-05 14:45:18, Info                  CBS    WU creates the package, AppID:<<PROCESS>>: powershell.exe, UpdateID:{4635602F-718C-4584-BA72-33B3C6766F3A}, revision: 200
+2025-03-05 14:45:24, Info                  CBS    WU creates the package, AppID:<<PROCESS>>: powershell.exe, UpdateID:{6B8B6AD1-BE52-40D0-9C16-B6F038D8D32F}, revision: 202
+..."
+13,2,"2025-03-05 14:51:44, Info                  CBS    Universal Time is: 2025-03-05 09:21:44.757
+2025-03-08 21:39:44, Info                  CBS    Universal Time is: 2025-03-08 16:09:44.892","Analyze the following similar log errors and suggest solutions:
+2025-03-05 14:51:44, Info                  CBS    Universal Time is: 2025-03-05 09:21:44.757
+2025-03-08 21:39:44, Info                  CBS    Universal Time is: 2025-03-08 16:09:44.892
+..."
+14,8,"2025-03-05 18:49:46, Info                  CBS    Read out cached applicability from TiLight for package: Mapping_Package_for_KB3089226_af-ZA_amd64~31bf3856ad364e35~amd64~~10.0.10240.0, ApplicableState: 0, CurrentState:0
+2025-03-05 22:05:14, Info                  CBS    Read out cached applicability from TiLight for package: Mapping_Package_for_KB3089226_af-ZA_amd64~31bf3856ad364e35~amd64~~10.0.10240.0, ApplicableState: 0, CurrentState:0
+2025-03-08 21:22:35, Info                  CBS    Read out cached applicability from TiLight for package: Mapping_Package_for_KB3089226_af-ZA_amd64~31bf3856ad364e35~amd64~~10.0.10240.0, ApplicableState: 0, CurrentState:0
+2025-03-08 21:36:36, Info                  CBS    Read out cached applicability from TiLight for package: Mapping_Package_for_KB3089226_af-ZA_amd64~31bf3856ad364e35~amd64~~10.0.10240.0, ApplicableState: 0, CurrentState:0
+2025-03-08 21:55:00, Info                  CBS    Read out cached applicability from TiLight for package: Mapping_Package_for_KB3089226_af-ZA_amd64~31bf3856ad364e35~amd64~~10.0.10240.0, ApplicableState: 0, CurrentState:0","Analyze the following similar log errors and suggest solutions:
+2025-03-05 18:49:46, Info                  CBS    Read out cached applicability from TiLight for package: Mapping_Package_for_KB3089226_af-ZA_amd64~31bf3856ad364e35~amd64~~10.0.10240.0, ApplicableState: 0, CurrentState:0
+2025-03-05 22:05:14, Info                  CBS    Read out cached applicability from TiLight for package: Mapping_Package_for_KB3089226_af-ZA_amd64~31bf3856ad364e35~amd64~~10.0.10240.0, ApplicableState: 0, CurrentState:0
+2025-03-08 21:22:35, Info                  CBS    Read out cached applicability from TiLight for package: Mapping_Package_for_KB3089226_af-ZA_amd64~31bf3856ad364e35~amd64~~10.0.10240.0, ApplicableState: 0, CurrentState:0
+..."
+15,2,"2025-03-05 19:08:14, Info                  CBS    Universal Time is: 2025-03-05 13:38:14.730
+2025-03-08 14:49:10, Info                  CBS    Universal Time is: 2025-03-08 09:19:10.340","Analyze the following similar log errors and suggest solutions:
+2025-03-05 19:08:14, Info                  CBS    Universal Time is: 2025-03-05 13:38:14.730
+2025-03-08 14:49:10, Info                  CBS    Universal Time is: 2025-03-08 09:19:10.340
+..."
+16,10,"2025-03-05 22:04:30, Info                  CBS    Lock: New lock added: CCbsWorker, level: 5, total lock:3
+2025-03-05 23:48:45, Info                  CBS    Lock: Lock removed: CCbsWorker, level: 5, total lock:2
+2025-03-08 22:23:31, Info                  CBS    Lock: New lock added: CCbsWorker, level: 5, total lock:3
+2025-03-08 22:25:35, Info                  CBS    Lock: Lock removed: CCbsWorker, level: 5, total lock:2
+2025-03-08 23:23:31, Info                  CBS    Lock: New lock added: CCbsWorker, level: 5, total lock:3","Analyze the following similar log errors and suggest solutions:
+2025-03-05 22:04:30, Info                  CBS    Lock: New lock added: CCbsWorker, level: 5, total lock:3
+2025-03-05 23:48:45, Info                  CBS    Lock: Lock removed: CCbsWorker, level: 5, total lock:2
+2025-03-08 22:23:31, Info                  CBS    Lock: New lock added: CCbsWorker, level: 5, total lock:3
+..."
+17,3,"2025-03-05 22:04:30, Info                  CBS    Universal Time is: 2025-03-05 16:34:30.400
+2025-03-09 19:35:30, Info                  CBS    Universal Time is: 2025-03-09 14:05:30.004
+2025-03-13 13:02:30, Info                  CBS    Universal Time is: 2025-03-13 07:32:30.882","Analyze the following similar log errors and suggest solutions:
+2025-03-05 22:04:30, Info                  CBS    Universal Time is: 2025-03-05 16:34:30.400
+2025-03-09 19:35:30, Info                  CBS    Universal Time is: 2025-03-09 14:05:30.004
+2025-03-13 13:02:30, Info                  CBS    Universal Time is: 2025-03-13 07:32:30.882
+..."
+18,5,"2025-03-08 21:39:46, Info                  CBS    Appl: Evaluating package applicability for package Microsoft-Windows-LanguageFeatures-Basic-sr-cyrl-rs-Package~31bf3856ad364e35~amd64~~10.0.22621.1, applicable state: Installed
+2025-03-08 21:39:46, Info                  CBS    Appl: Evaluating package applicability for package Microsoft-Windows-LanguageFeatures-Basic-tg-cyrl-tj-Package~31bf3856ad364e35~amd64~~10.0.22621.1, applicable state: Installed
+2025-03-08 21:39:46, Info                  CBS    Appl: Evaluating package applicability for package Microsoft-Windows-LanguageFeatures-Handwriting-bs-latn-ba-Package~31bf3856ad364e35~amd64~~10.0.22621.1, applicable state: Installed
+2025-03-08 21:39:47, Info                  CBS    Appl: Evaluating package applicability for package Microsoft-Windows-LanguageFeatures-Handwriting-sr-cyrl-rs-Package~31bf3856ad364e35~amd64~~10.0.22621.1, applicable state: Installed
+2025-03-08 21:39:47, Info                  CBS    Appl: Evaluating package applicability for package Microsoft-Windows-LanguageFeatures-Handwriting-sr-latn-rs-Package~31bf3856ad364e35~amd64~~10.0.22621.1, applicable state: Installed","Analyze the following similar log errors and suggest solutions:
+2025-03-08 21:39:46, Info                  CBS    Appl: Evaluating package applicability for package Microsoft-Windows-LanguageFeatures-Basic-sr-cyrl-rs-Package~31bf3856ad364e35~amd64~~10.0.22621.1, applicable state: Installed
+2025-03-08 21:39:46, Info                  CBS    Appl: Evaluating package applicability for package Microsoft-Windows-LanguageFeatures-Basic-tg-cyrl-tj-Package~31bf3856ad364e35~amd64~~10.0.22621.1, applicable state: Installed
+2025-03-08 21:39:46, Info                  CBS    Appl: Evaluating package applicability for package Microsoft-Windows-LanguageFeatures-Handwriting-bs-latn-ba-Package~31bf3856ad364e35~amd64~~10.0.22621.1, applicable state: Installed
+..."
+19,2,"2025-03-08 21:49:02, Info                  CBS    Offline image is read-only
+2025-03-13 13:02:31, Info                  CBS    Offline image is read-only","Analyze the following similar log errors and suggest solutions:
+2025-03-08 21:49:02, Info                  CBS    Offline image is read-only
+2025-03-13 13:02:31, Info                  CBS    Offline image is read-only
+..."
+20,40,"2025-03-08 21:49:02, Info                  CBS    Loading offline registry hive: SOFTWARE, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy18/WINDOWS/System32/config/SOFTWARE' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy18\WINDOWS\System32\config\SOFTWARE'.
+2025-03-08 21:49:02, Info                  CBS    Loading offline registry hive: SYSTEM, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy18/WINDOWS/System32/config/SYSTEM' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy18\WINDOWS\System32\config\SYSTEM'.
+2025-03-08 21:49:02, Info                  CBS    Loading offline registry hive: SECURITY, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy18/WINDOWS/System32/config/SECURITY' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy18\WINDOWS\System32\config\SECURITY'.
+2025-03-08 21:49:02, Info                  CBS    Loading offline registry hive: SAM, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy18/WINDOWS/System32/config/SAM' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy18\WINDOWS\System32\config\SAM'.
+2025-03-08 21:49:02, Info                  CBS    Loading offline registry hive: COMPONENTS, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy18/WINDOWS/System32/config/COMPONENTS' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy18\WINDOWS\System32\config\COMPONENTS'.","Analyze the following similar log errors and suggest solutions:
+2025-03-08 21:49:02, Info                  CBS    Loading offline registry hive: SOFTWARE, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy18/WINDOWS/System32/config/SOFTWARE' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy18\WINDOWS\System32\config\SOFTWARE'.
+2025-03-08 21:49:02, Info                  CBS    Loading offline registry hive: SYSTEM, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy18/WINDOWS/System32/config/SYSTEM' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy18\WINDOWS\System32\config\SYSTEM'.
+2025-03-08 21:49:02, Info                  CBS    Loading offline registry hive: SECURITY, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy18/WINDOWS/System32/config/SECURITY' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy18\WINDOWS\System32\config\SECURITY'.
+..."
+21,3,"2025-03-08 21:49:04, Info                  CSI    00000002 CSI Store 2256829683200 initialized
+2025-03-08 21:55:10, Info                  CSI    00000002 CSI Store 1319668431632 initialized
+2025-03-13 13:02:32, Info                  CSI    00000002 CSI Store 2076607291712 initialized","Analyze the following similar log errors and suggest solutions:
+2025-03-08 21:49:04, Info                  CSI    00000002 CSI Store 2256829683200 initialized
+2025-03-08 21:55:10, Info                  CSI    00000002 CSI Store 1319668431632 initialized
+2025-03-13 13:02:32, Info                  CSI    00000002 CSI Store 2076607291712 initialized
+..."
+22,38,"2025-03-08 21:55:39, Info                  CBS    Appl: Selfupdate, Component: amd64_microsoft-onecore-c..dexperiencehost-api_31bf3856ad364e35_0.0.0.0_none_3f28328c11339c74 (10.0.22621.3227), elevation:2, lower version revision holder: 0.0.0.0
+2025-03-08 21:55:39, Info                  CBS    Appl: SelfUpdate detect, component: amd64_microsoft-onecore-c..dexperiencehost-api_31bf3856ad364e35_10.0.22621.3227_none_9f2c62688c316cac, elevation: 2, applicable: 0
+2025-03-08 21:55:39, Info                  CBS    Appl: Selfupdate, Component: amd64_microsoft-windows-c...appxmain.resources_31bf3856ad364e35_0.0.0.0_en-gb_0b39db6fd5a97785 (10.0.22621.2280), elevation:2, lower version revision holder: 0.0.0.0
+2025-03-08 21:55:39, Info                  CBS    Appl: SelfUpdate detect, component: amd64_microsoft-windows-c...appxmain.resources_31bf3856ad364e35_10.0.22621.2280_en-gb_6b44aa9a50a12f39, elevation: 2, applicable: 0
+2025-03-08 21:55:39, Info                  CBS    Appl: Selfupdate, Component: amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_0.0.0.0_none_82b10a034e27a35b (10.0.22621.3227), elevation:2, lower version revision holder: 0.0.0.0","Analyze the following similar log errors and suggest solutions:
+2025-03-08 21:55:39, Info                  CBS    Appl: Selfupdate, Component: amd64_microsoft-onecore-c..dexperiencehost-api_31bf3856ad364e35_0.0.0.0_none_3f28328c11339c74 (10.0.22621.3227), elevation:2, lower version revision holder: 0.0.0.0
+2025-03-08 21:55:39, Info                  CBS    Appl: SelfUpdate detect, component: amd64_microsoft-onecore-c..dexperiencehost-api_31bf3856ad364e35_10.0.22621.3227_none_9f2c62688c316cac, elevation: 2, applicable: 0
+2025-03-08 21:55:39, Info                  CBS    Appl: Selfupdate, Component: amd64_microsoft-windows-c...appxmain.resources_31bf3856ad364e35_0.0.0.0_en-gb_0b39db6fd5a97785 (10.0.22621.2280), elevation:2, lower version revision holder: 0.0.0.0
+..."
+23,20,"2025-03-08 21:55:39, Info                  CBS    Appl: Package: Package_5_for_KB5036212~31bf3856ad364e35~amd64~~10.0.1.5, Update: 5036212-5_neutral, Applicable: NotApplicable, Disposition: Staged
+2025-03-08 21:55:39, Info                  CBS    Appl: Package: Package_10_for_KB5036212~31bf3856ad364e35~amd64~~10.0.1.5, Update: 5036212-10_neutral, Applicable: NotApplicable, Disposition: Staged
+2025-03-08 21:55:39, Info                  CBS    Appl: Package: Package_15_for_KB5036212~31bf3856ad364e35~amd64~~10.0.1.5, Update: 5036212-15_neutral, Applicable: NotApplicable, Disposition: Staged
+2025-03-08 21:55:39, Info                  CBS    Appl: Package: Package_25_for_KB5036212~31bf3856ad364e35~amd64~~10.0.1.5, Update: 5036212-25_neutral, Applicable: NotApplicable, Disposition: Staged
+2025-03-08 21:55:39, Info                  CBS    Appl: Package: Package_25_for_KB5036212~31bf3856ad364e35~amd64~~10.0.1.5, Update: 5036212-26_neutral, Applicable: NotApplicable, Disposition: Staged","Analyze the following similar log errors and suggest solutions:
+2025-03-08 21:55:39, Info                  CBS    Appl: Package: Package_5_for_KB5036212~31bf3856ad364e35~amd64~~10.0.1.5, Update: 5036212-5_neutral, Applicable: NotApplicable, Disposition: Staged
+2025-03-08 21:55:39, Info                  CBS    Appl: Package: Package_10_for_KB5036212~31bf3856ad364e35~amd64~~10.0.1.5, Update: 5036212-10_neutral, Applicable: NotApplicable, Disposition: Staged
+2025-03-08 21:55:39, Info                  CBS    Appl: Package: Package_15_for_KB5036212~31bf3856ad364e35~amd64~~10.0.1.5, Update: 5036212-15_neutral, Applicable: NotApplicable, Disposition: Staged
+..."
+24,2,"2025-03-08 21:55:39, Info                  CBS    Appl: SelfUpdate detect, component: amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.22621.3227_none_e2b539dfc9257393, elevation: 2, applicable: 0
+2025-03-08 21:55:44, Info                  CBS    Appl: SelfUpdate detect, component: amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.22621.2280_none_e2bbd92dc91f5b0f, elevation: 2, applicable: 0","Analyze the following similar log errors and suggest solutions:
+2025-03-08 21:55:39, Info                  CBS    Appl: SelfUpdate detect, component: amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.22621.3227_none_e2b539dfc9257393, elevation: 2, applicable: 0
+2025-03-08 21:55:44, Info                  CBS    Appl: SelfUpdate detect, component: amd64_microsoft-windows-c..riencehost.appxmain_31bf3856ad364e35_10.0.22621.2280_none_e2bbd92dc91f5b0f, elevation: 2, applicable: 0
+..."
+25,2,"2025-03-13 11:53:55, Info                  CBS    Universal Time is: 2025-03-13 06:23:55.083
+2025-03-13 12:22:53, Info                  CBS    Universal Time is: 2025-03-13 06:52:53.300","Analyze the following similar log errors and suggest solutions:
+2025-03-13 11:53:55, Info                  CBS    Universal Time is: 2025-03-13 06:23:55.083
+2025-03-13 12:22:53, Info                  CBS    Universal Time is: 2025-03-13 06:52:53.300
+..."
+-1,14,"2025-03-05 15:07:57, Info                  CBS    Universal Time is: 2025-03-05 09:37:57.016
+2025-03-05 18:52:26, Info                  CBS    Universal Time is: 2025-03-05 13:22:26.356
+2025-03-08 21:34:01, Info                  CBS    Universal Time is: 2025-03-08 16:04:01.378
+2025-03-08 21:39:45, Info                  CBS    Appl: Evaluating package applicability for package Microsoft-Windows-LanguageFeatures-Basic-az-latn-az-Package~31bf3856ad364e35~amd64~~10.0.22621.1, applicable state: Installed
+2025-03-08 21:39:46, Info                  CBS    Appl: Evaluating package applicability for package Microsoft-Windows-LanguageFeatures-Basic-uz-latn-uz-Package~31bf3856ad364e35~amd64~~10.0.22621.1, applicable state: Installed","Analyze the following similar log errors and suggest solutions:
+2025-03-05 15:07:57, Info                  CBS    Universal Time is: 2025-03-05 09:37:57.016
+2025-03-05 18:52:26, Info                  CBS    Universal Time is: 2025-03-05 13:22:26.356
+2025-03-08 21:34:01, Info                  CBS    Universal Time is: 2025-03-08 16:04:01.378
+..."
